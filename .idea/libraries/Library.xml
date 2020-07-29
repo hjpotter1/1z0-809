@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Library">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/JavaWeb入门到实战/Library" />
+      <root url="jar://$USER_HOME$/Downloads/JavaWeb入门到实战/Library/web/WEB-INF/lib/mysql-connector-java-8.0.11.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Downloads/JavaWeb入门到实战/Library/src" />
+    </SOURCES>
+  </library>
+</component>
